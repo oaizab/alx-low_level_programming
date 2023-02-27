@@ -1,3 +1,9 @@
+/**
+ * _strlen - returns the length of a string
+ * @s: string to be measured
+ *
+ * Return: length of string
+ */
 int _strlen(char *s)
 {
 	int i;
